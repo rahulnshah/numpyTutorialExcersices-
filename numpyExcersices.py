@@ -3,8 +3,6 @@
 Created on Fri Jun  3 18:56:49 2022
 
 @author: rahul
-
-Problems Solved Right From W3Schools.com 
 """
 
 import numpy as np 
@@ -64,7 +62,7 @@ arr = np.array([1, 2, 3, 4, 5, 4, 4])
 x = np.where(arr == 4)
 # print(x)
 
-# Give all numbers from arr greater than or equla to 2 
+# Give all numbers from arr greater than or equal to 2 
 greater_than_or_equal_2 = arr[arr >= 2]
 print(greater_than_or_equal_2)
 
