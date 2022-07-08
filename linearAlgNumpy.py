@@ -78,7 +78,7 @@ u = np.array([1,-3])
 t_of_u = np.matmul(sq_mat, u)
 print("image under T of u:\n", t_of_u) 
 
-
+# Linear Transformations
 '''Let T: R^2 -> R^2 be a linear transformation that maps vector
 u into [2, 1] and maps vector v into [1,3] Use the
 fact that T is linear to find the images under T of 3u, 2v, and
