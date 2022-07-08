@@ -44,6 +44,3 @@ a = np.transpose(g) # a and g are not aliases
 # print('a\n',a)
 # print('g\n',g)
 
-# inverse of a matrix , Determinants, and Solving System of Equations
-
-# One example with matplotlib
